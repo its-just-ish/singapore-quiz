@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.wrangler/
+seed/seed.generated.sql
+*.log
+.DS_Store

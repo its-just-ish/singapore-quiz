@@ -1,0 +1,53 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Avenir Next", "Segoe UI", ui-rounded, system-ui, -apple-system, sans-serif;
+  --color-paper: #fdf8f2;
+  --color-ink: #263238;
+  --color-teal-accent: #0e7490;
+}
+
+:root {
+  --accent: #0e7490; /* one accent colour per screen; pages override this */
+}
+
+html {
+  background-color: var(--color-paper);
+}
+
+body {
+  margin: 0;
+  color: var(--color-ink);
+  font-family: var(--font-display);
+  -webkit-font-smoothing: antialiased;
+  /* Subtle Peranakan-tile geometric motif */
+  background-color: var(--color-paper);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 64 64'%3E%3Cg fill='none' stroke='%230e7490' stroke-opacity='0.07' stroke-width='1.3'%3E%3Cpath d='M32 10c7 7 7 15 0 22-7-7-7-15 0-22z'/%3E%3Cpath d='M32 32c7 7 7 15 0 22-7-7-7-15 0-22z'/%3E%3Cpath d='M10 32c7-7 15-7 22 0-7 7-15 7-22 0z'/%3E%3Cpath d='M32 32c7-7 15-7 22 0-7 7-15 7-22 0z'/%3E%3Ccircle cx='32' cy='32' r='4.5'/%3E%3Cpath d='M0 10a10 10 0 0 0 10-10M54 0a10 10 0 0 0 10 10M64 54a10 10 0 0 0-10 10M10 64a10 10 0 0 0-10-10'/%3E%3C/g%3E%3C/svg%3E");
+}
+
+.btn-accent {
+  background-color: var(--accent);
+  color: white;
+  transition: transform 0.06s ease, filter 0.15s ease;
+}
+.btn-accent:active {
+  transform: scale(0.97);
+}
+.text-accent {
+  color: var(--accent);
+}
+.ring-accent {
+  --tw-ring-color: var(--accent);
+}
+
+@keyframes pop-in {
+  0% { transform: scale(0.92); opacity: 0; }
+  100% { transform: scale(1); opacity: 1; }
+}
+.animate-pop { animation: pop-in 0.18s ease-out both; }
+
+@keyframes rise {
+  0% { transform: translateY(14px); opacity: 0; }
+  100% { transform: translateY(0); opacity: 1; }
+}
+.animate-rise { animation: rise 0.3s ease-out both; }

@@ -1,0 +1,487 @@
+[
+  {
+    "theme": "makan",
+    "difficulty": 1,
+    "prompt": "Kaya, the jam in a classic kaya toast set, is made mainly from what?",
+    "answer": "Coconut milk and eggs",
+    "distractors": ["Peanuts and honey", "Red beans", "Durian pulp"],
+    "explanation": "Kaya is a rich coconut-and-egg jam, usually perfumed with pandan leaves."
+  },
+  {
+    "theme": "makan",
+    "difficulty": 1,
+    "prompt": "What arrives at your table if you order a 'Milo dinosaur'?",
+    "answer": "Iced Milo topped with a mountain of Milo powder",
+    "distractors": ["Milo blended with ice cream", "Milo with a shot of espresso", "Milo with grass jelly cubes"],
+    "explanation": "The 'dinosaur' is the heap of undissolved Milo powder piled on top of the iced drink."
+  },
+  {
+    "theme": "makan",
+    "difficulty": 1,
+    "prompt": "Hainanese chicken rice gets its fragrance from rice cooked in what?",
+    "answer": "Chicken stock and chicken fat",
+    "distractors": ["Coconut milk", "Plain water with butter", "Tomato broth"],
+    "explanation": "The rice is cooked in chicken stock with rendered chicken fat, garlic and ginger — that's the magic."
+  },
+  {
+    "theme": "makan",
+    "difficulty": 1,
+    "prompt": "At a kopitiam, ordering 'kopi O' gets you coffee with…",
+    "answer": "Sugar but no milk",
+    "distractors": ["Condensed milk", "Evaporated milk", "Nothing added at all"],
+    "explanation": "'O' means black with sugar. For no sugar at all you'd ask for 'kopi O kosong'."
+  },
+  {
+    "theme": "makan",
+    "difficulty": 2,
+    "prompt": "Hawker Chan, one of the first street-food stalls to win a Michelin star in 2016, is famous for which dish?",
+    "answer": "Soya sauce chicken rice",
+    "distractors": ["Char kway teow", "Laksa", "Bak chor mee"],
+    "explanation": "Liao Fan Hawker Chan's soya sauce chicken rice and noodle stall earned a Michelin star in 2016."
+  },
+  {
+    "theme": "makan",
+    "difficulty": 2,
+    "prompt": "Rojak, the local fruit-and-dough-fritter salad, is dressed in a sauce based on what?",
+    "answer": "Fermented prawn paste (hae ko)",
+    "distractors": ["Oyster sauce", "Plum sauce", "Peanut butter"],
+    "explanation": "The sticky black dressing is hae ko — a thick fermented prawn paste — with tamarind, sugar and crushed peanuts."
+  },
+  {
+    "theme": "makan",
+    "difficulty": 2,
+    "prompt": "What does 'tze char' (煮炒) refer to?",
+    "answer": "Home-style dishes wok-cooked to order at a stall",
+    "distractors": ["A steamboat buffet", "A dessert of shaved ice", "Skewers grilled over charcoal"],
+    "explanation": "Tze char stalls cook a big menu of home-style dishes to order — think hor fun, har cheong gai and sambal kangkong."
+  },
+  {
+    "theme": "makan",
+    "difficulty": 2,
+    "prompt": "What makes Katong laksa different from most other laksa?",
+    "answer": "The noodles are cut short so you eat it with only a spoon",
+    "distractors": ["It is served completely dry", "It uses green curry instead of laksa gravy", "It is served cold"],
+    "explanation": "Katong laksa's thick bee hoon is snipped into short pieces — no chopsticks needed, just a spoon."
+  },
+  {
+    "theme": "makan",
+    "difficulty": 3,
+    "prompt": "In 2020, Singapore's hawker culture was inscribed on which UNESCO list?",
+    "answer": "The Representative List of Intangible Cultural Heritage",
+    "distractors": ["The World Heritage Sites list", "The Memory of the World register", "The Creative Cities Network"],
+    "explanation": "Hawker culture was added to UNESCO's Representative List of the Intangible Cultural Heritage of Humanity in December 2020."
+  },
+  {
+    "theme": "makan",
+    "difficulty": 3,
+    "prompt": "The modern yusheng (lo hei) tossed at Chinese New Year was popularised in the 1960s by a group of Singapore chefs known as…",
+    "answer": "The Four Heavenly Kings",
+    "distractors": ["The Eight Immortals", "The Five Tigers", "The Golden Dragons"],
+    "explanation": "Chefs Lau Yoke Pui, Than Mui Kai, Hooi Kok Wai and Sin Leong — the 'Four Heavenly Kings' — created the modern colourful yusheng."
+  },
+
+  {
+    "theme": "mrt_buses",
+    "difficulty": 1,
+    "prompt": "What colour is the East–West Line on the MRT system map?",
+    "answer": "Green",
+    "distractors": ["Red", "Purple", "Blue"],
+    "explanation": "The East–West Line is green; red is the North–South Line, purple the North East Line and blue the Downtown Line."
+  },
+  {
+    "theme": "mrt_buses",
+    "difficulty": 1,
+    "prompt": "What does 'MRT' stand for?",
+    "answer": "Mass Rapid Transit",
+    "distractors": ["Metro Rail Transport", "Mass Rail Transfer", "Metropolitan Rapid Train"],
+    "explanation": "MRT stands for Mass Rapid Transit — the network opened in 1987."
+  },
+  {
+    "theme": "mrt_buses",
+    "difficulty": 1,
+    "prompt": "Which card have commuters traditionally tapped to pay for MRT and bus rides?",
+    "answer": "EZ-Link",
+    "distractors": ["Octopus", "Oyster", "Touch 'n Go"],
+    "explanation": "EZ-Link launched in 2002. Octopus is Hong Kong's card and Oyster is London's."
+  },
+  {
+    "theme": "mrt_buses",
+    "difficulty": 1,
+    "prompt": "Eating or drinking on the MRT can get you fined up to how much?",
+    "answer": "$500",
+    "distractors": ["$50", "$5,000", "Nothing — it's just frowned upon"],
+    "explanation": "Under the Rapid Transit Systems Act, eating or drinking in trains and paid areas carries a fine of up to $500."
+  },
+  {
+    "theme": "mrt_buses",
+    "difficulty": 2,
+    "prompt": "Which MRT line was the first to open, in November 1987?",
+    "answer": "North–South Line",
+    "distractors": ["East–West Line", "Circle Line", "North East Line"],
+    "explanation": "The first stretch, from Yio Chu Kang to Toa Payoh on the North–South Line, opened on 7 November 1987."
+  },
+  {
+    "theme": "mrt_buses",
+    "difficulty": 2,
+    "prompt": "When it opened in 2003, the North East Line was notable for being…",
+    "answer": "Fully automated and driverless",
+    "distractors": ["Entirely above ground", "Powered by diesel trains", "The shortest line in the world"],
+    "explanation": "The NEL was one of the world's first fully automated, driverless heavy-rail metro lines."
+  },
+  {
+    "theme": "mrt_buses",
+    "difficulty": 2,
+    "prompt": "Which bus service famously links Changi Airport with the Orchard Road area?",
+    "answer": "Service 36",
+    "distractors": ["Service 174", "Service 851", "Service 960"],
+    "explanation": "Bus 36 loops between Changi Airport and the city, passing Marina Bay and Orchard — a budget airport ride."
+  },
+  {
+    "theme": "mrt_buses",
+    "difficulty": 2,
+    "prompt": "Which station lets you transfer between the North–South and East–West lines just by crossing the platform?",
+    "answer": "City Hall",
+    "distractors": ["Dhoby Ghaut", "Outram Park", "Serangoon"],
+    "explanation": "City Hall (and Raffles Place) offer cross-platform transfers between the North–South and East–West lines."
+  },
+  {
+    "theme": "mrt_buses",
+    "difficulty": 3,
+    "prompt": "Which station has Singapore's deepest MRT platforms, roughly 43 metres underground?",
+    "answer": "Bencoolen",
+    "distractors": ["Bras Basah", "Promenade", "Dhoby Ghaut"],
+    "explanation": "Bencoolen on the Downtown Line sits about 43 m below ground, taking the 'deepest' title from Bras Basah."
+  },
+  {
+    "theme": "mrt_buses",
+    "difficulty": 3,
+    "prompt": "Before EZ-Link, which stored-value card did commuters use on the MRT and buses?",
+    "answer": "The TransitLink farecard",
+    "distractors": ["The CEPAS card", "The NETS FlashPay card", "Paper tickets only"],
+    "explanation": "The magnetic TransitLink farecard, introduced around 1990, was the standard fare card before EZ-Link replaced it in 2002."
+  },
+
+  {
+    "theme": "singlish",
+    "difficulty": 1,
+    "prompt": "If your friend says the laksa is 'shiok', they mean it is…",
+    "answer": "Really good and satisfying",
+    "distractors": ["Too spicy", "Overpriced", "Disappointing"],
+    "explanation": "'Shiok' expresses deep satisfaction — great food, a cold drink on a hot day, that first bite."
+  },
+  {
+    "theme": "singlish",
+    "difficulty": 1,
+    "prompt": "Someone who says 'paiseh' is feeling…",
+    "answer": "Embarrassed or sheepish",
+    "distractors": ["Hungry", "Proud", "Sleepy"],
+    "explanation": "'Paiseh', from Hokkien, means embarrassed — often said when asking a favour or arriving late."
+  },
+  {
+    "theme": "singlish",
+    "difficulty": 1,
+    "prompt": "What does it mean to 'chope' a table at a hawker centre?",
+    "answer": "Reserve it, classically with a tissue packet",
+    "distractors": ["Wipe it down", "Share it with strangers", "Complain that it's dirty"],
+    "explanation": "'Chope' means to reserve — the tissue packet on the table is the time-honoured instrument of chope."
+  },
+  {
+    "theme": "singlish",
+    "difficulty": 1,
+    "prompt": "'Makan' means…",
+    "answer": "To eat, or food",
+    "distractors": ["To sleep", "To hurry", "To bargain"],
+    "explanation": "From Malay: makan means to eat. 'Makan already?' is basically a greeting."
+  },
+  {
+    "theme": "singlish",
+    "difficulty": 2,
+    "prompt": "A 'kiasu' person is, literally, afraid of what?",
+    "answer": "Losing out",
+    "distractors": ["Ghosts", "Heights", "Being alone"],
+    "explanation": "Kiasu comes from Hokkien 'kia' (afraid) + 'su' (to lose) — the fear of missing out, Singapore edition."
+  },
+  {
+    "theme": "singlish",
+    "difficulty": 2,
+    "prompt": "If you 'kena arrow' at work, what just happened?",
+    "answer": "You got assigned a task nobody wanted",
+    "distractors": ["You got promoted", "You were publicly praised", "You were sent on holiday"],
+    "explanation": "'Kena arrow' (from army slang) means being singled out and saddled with an unwanted job."
+  },
+  {
+    "theme": "singlish",
+    "difficulty": 2,
+    "prompt": "To 'lepak' on a Sunday afternoon is to…",
+    "answer": "Chill and hang around doing nothing much",
+    "distractors": ["Work overtime", "Exercise intensely", "Queue for something"],
+    "explanation": "'Lepak', from Malay, means to loaf or relax aimlessly — ideally in a void deck or mall with aircon."
+  },
+  {
+    "theme": "singlish",
+    "difficulty": 2,
+    "prompt": "The particle 'lor' at the end of a sentence usually conveys…",
+    "answer": "Resignation — that's just how it is",
+    "distractors": ["Great excitement", "A question", "Politeness to elders"],
+    "explanation": "'Like that lor' signals acceptance or resignation: what to do, that's just the way things are."
+  },
+  {
+    "theme": "singlish",
+    "difficulty": 3,
+    "prompt": "'Gostan', meaning to reverse a vehicle, comes from which English phrase?",
+    "answer": "'Go astern'",
+    "distractors": ["'Go standard'", "'Ghost town'", "'Gone stunning'"],
+    "explanation": "'Gostan' is a nautical borrowing — 'go astern' (reverse the ship) squeezed into one word via Malay."
+  },
+  {
+    "theme": "singlish",
+    "difficulty": 3,
+    "prompt": "If someone 'catch no ball' during a meeting, they…",
+    "answer": "Understood nothing at all",
+    "distractors": ["Missed their bus", "Lost a bet", "Dropped their lunch"],
+    "explanation": "'Catch no ball' is a direct translation of Hokkien 'liak bo kiu' — to completely fail to understand."
+  },
+
+  {
+    "theme": "heartlands",
+    "difficulty": 1,
+    "prompt": "What does 'HDB' stand for?",
+    "answer": "Housing & Development Board",
+    "distractors": ["Home Design Bureau", "Housing Development Bank", "Heartland Development Board"],
+    "explanation": "The Housing & Development Board, formed in 1960, builds Singapore's public housing."
+  },
+  {
+    "theme": "heartlands",
+    "difficulty": 1,
+    "prompt": "What is a 'void deck'?",
+    "answer": "The open, sheltered ground floor of an HDB block",
+    "distractors": ["An empty MRT platform", "A rooftop garden", "The top floor of a car park"],
+    "explanation": "Void decks are the open ground floors of HDB blocks — used for weddings, funerals, chess and waiting out the rain."
+  },
+  {
+    "theme": "heartlands",
+    "difficulty": 1,
+    "prompt": "Roughly what share of Singapore residents live in HDB flats?",
+    "answer": "About 8 in 10",
+    "distractors": ["About 3 in 10", "About half", "Nearly all — 99%"],
+    "explanation": "Close to 80% of resident households live in HDB flats — the heartlands really are the heart of Singapore."
+  },
+  {
+    "theme": "heartlands",
+    "difficulty": 1,
+    "prompt": "The round stone tables with chequerboard tops in void decks are made for playing…",
+    "answer": "Chess and checkers",
+    "distractors": ["Mahjong", "Carrom", "Poker"],
+    "explanation": "Those tables have chess/checkers boards built into the stone — a void-deck classic for uncles and kids alike."
+  },
+  {
+    "theme": "heartlands",
+    "difficulty": 2,
+    "prompt": "Toa Payoh, one of the earliest HDB towns, has a name that roughly means…",
+    "answer": "'Big swamp'",
+    "distractors": ["'New town'", "'White sands'", "'Red hill'"],
+    "explanation": "'Toa' is Hokkien for big and 'payoh' comes from Malay 'paya', swamp — the area was once swampland."
+  },
+  {
+    "theme": "heartlands",
+    "difficulty": 2,
+    "prompt": "The town of Tampines is named after what?",
+    "answer": "A tree — the tempinis ironwood",
+    "distractors": ["A Malay prince", "A type of rice", "A British surveyor"],
+    "explanation": "Tampines takes its name from the tempinis (ironwood) trees that once grew abundantly there."
+  },
+  {
+    "theme": "heartlands",
+    "difficulty": 2,
+    "prompt": "HDB's Ethnic Integration Policy (EIP) exists to…",
+    "answer": "Keep a balanced ethnic mix in every block and neighbourhood",
+    "distractors": ["Reserve flats for senior citizens", "Price flats by floor level", "Allocate season parking fairly"],
+    "explanation": "Introduced in 1989, the EIP sets ethnic quotas per block and neighbourhood to prevent enclaves and encourage mixing."
+  },
+  {
+    "theme": "heartlands",
+    "difficulty": 2,
+    "prompt": "The famous mosaic-tiled dragon playground is an icon of which estate?",
+    "answer": "Toa Payoh",
+    "distractors": ["Bedok", "Yishun", "Clementi"],
+    "explanation": "The 1979 dragon playground at Toa Payoh Lorong 6, with its orange terrazzo head, is a beloved heartland icon."
+  },
+  {
+    "theme": "heartlands",
+    "difficulty": 3,
+    "prompt": "Which estate was Singapore's first satellite town, begun by the SIT even before the HDB existed?",
+    "answer": "Queenstown",
+    "distractors": ["Ang Mo Kio", "Punggol", "Woodlands"],
+    "explanation": "Queenstown was started in the 1950s by the Singapore Improvement Trust, HDB's colonial-era predecessor."
+  },
+  {
+    "theme": "heartlands",
+    "difficulty": 3,
+    "prompt": "In HDB-speak, what is a 'jumbo flat'?",
+    "answer": "Two adjacent flats joined into one larger unit",
+    "distractors": ["A penthouse maisonette", "A flat directly above a hawker centre", "Any flat bigger than 100 square metres"],
+    "explanation": "Jumbo flats were created in the 1990s by merging pairs of unsold smaller flats, mostly in Woodlands and Yishun."
+  },
+
+  {
+    "theme": "then_and_now",
+    "difficulty": 1,
+    "prompt": "In which year did Singapore become an independent republic?",
+    "answer": "1965",
+    "distractors": ["1959", "1963", "1971"],
+    "explanation": "Singapore separated from Malaysia and became independent on 9 August 1965."
+  },
+  {
+    "theme": "then_and_now",
+    "difficulty": 1,
+    "prompt": "Who was Singapore's first Prime Minister?",
+    "answer": "Lee Kuan Yew",
+    "distractors": ["Goh Chok Tong", "Yusof Ishak", "David Marshall"],
+    "explanation": "Lee Kuan Yew served as Prime Minister from 1959 to 1990. David Marshall was Chief Minister; Yusof Ishak was the first President."
+  },
+  {
+    "theme": "then_and_now",
+    "difficulty": 1,
+    "prompt": "In legend, Sang Nila Utama named the island 'Singapura' after spotting what animal?",
+    "answer": "A lion",
+    "distractors": ["A tiger", "An elephant", "A crocodile"],
+    "explanation": "'Singapura' means Lion City — though historians suspect what the prince saw was more likely a tiger."
+  },
+  {
+    "theme": "then_and_now",
+    "difficulty": 1,
+    "prompt": "Which river was the centre of old Singapore's trading port, lined with bumboats and godowns?",
+    "answer": "The Singapore River",
+    "distractors": ["The Kallang River", "The Rochor River", "The Geylang River"],
+    "explanation": "The Singapore River was the artery of the colonial entrepôt — today its godowns are the bars of Boat Quay and Clarke Quay."
+  },
+  {
+    "theme": "then_and_now",
+    "difficulty": 2,
+    "prompt": "When Changi Airport opened in 1981, which airport did it replace as the main international gateway?",
+    "answer": "Paya Lebar Airport",
+    "distractors": ["Seletar Airport", "Kallang Airport", "Sembawang Airfield"],
+    "explanation": "Paya Lebar was the main airport from 1955 until Changi opened; it's now an air base."
+  },
+  {
+    "theme": "then_and_now",
+    "difficulty": 2,
+    "prompt": "Beach Road got its name because it once…",
+    "answer": "Ran right along the seafront",
+    "distractors": ["Hosted beach volleyball courts", "Was covered in imported sand", "Led to a public swimming lagoon"],
+    "explanation": "Before land reclamation created Marina Bay and the Nicoll Highway area, the sea really did lap at Beach Road."
+  },
+  {
+    "theme": "then_and_now",
+    "difficulty": 2,
+    "prompt": "Which island was formerly called Pulau Blakang Mati?",
+    "answer": "Sentosa",
+    "distractors": ["Pulau Ubin", "St John's Island", "Coney Island"],
+    "explanation": "Blakang Mati ('behind death' in Malay) was renamed Sentosa — 'peace and tranquillity' — in 1970 as it became a resort island."
+  },
+  {
+    "theme": "then_and_now",
+    "difficulty": 2,
+    "prompt": "Between 1963 and 1965, Singapore was briefly part of which country?",
+    "answer": "Malaysia",
+    "distractors": ["Indonesia", "The Straits Settlements", "Brunei"],
+    "explanation": "Singapore joined the Federation of Malaysia in September 1963 and separated less than two years later."
+  },
+  {
+    "theme": "then_and_now",
+    "difficulty": 3,
+    "prompt": "What was the Van Kleef Aquarium, which closed in 1991?",
+    "answer": "A much-loved public aquarium at the foot of Fort Canning",
+    "distractors": ["A fish market at Clarke Quay", "A colonial swimming club", "A ship-shaped museum at Sentosa"],
+    "explanation": "Opened in 1955 off River Valley Road, the Van Kleef Aquarium was a school-excursion staple for decades."
+  },
+  {
+    "theme": "then_and_now",
+    "difficulty": 3,
+    "prompt": "Kampong Glam takes its name from what?",
+    "answer": "The gelam tree, whose bark was used to caulk boats",
+    "distractors": ["A Malay word for 'glamorous market'", "A sultan named Glam", "An old word for lantern festival"],
+    "explanation": "The gelam (paperbark) tree grew in the area; its bark and oil were prized by boat-builders."
+  },
+
+  {
+    "theme": "national",
+    "difficulty": 1,
+    "prompt": "How many stars are on the Singapore flag?",
+    "answer": "Five",
+    "distractors": ["Four", "Six", "One"],
+    "explanation": "Five white stars sit beside the crescent moon on the red-and-white flag."
+  },
+  {
+    "theme": "national",
+    "difficulty": 1,
+    "prompt": "What is Singapore's national flower?",
+    "answer": "Vanda Miss Joaquim, an orchid",
+    "distractors": ["The hibiscus", "The frangipani", "The bougainvillea"],
+    "explanation": "The orchid Vanda Miss Joaquim was chosen as the national flower in 1981."
+  },
+  {
+    "theme": "national",
+    "difficulty": 1,
+    "prompt": "When is Singapore's National Day?",
+    "answer": "9 August",
+    "distractors": ["31 August", "1 July", "6 September"],
+    "explanation": "National Day on 9 August marks Singapore's independence in 1965."
+  },
+  {
+    "theme": "national",
+    "difficulty": 1,
+    "prompt": "What is Singapore's national anthem called?",
+    "answer": "Majulah Singapura",
+    "distractors": ["Negaraku", "Home", "Count on Me, Singapore"],
+    "explanation": "'Majulah Singapura' means 'Onward Singapore'. 'Home' and 'Count on Me, Singapore' are National Day songs, not the anthem."
+  },
+  {
+    "theme": "national",
+    "difficulty": 2,
+    "prompt": "The five stars on the flag stand for democracy, peace, progress, justice and…",
+    "answer": "Equality",
+    "distractors": ["Prosperity", "Unity", "Harmony"],
+    "explanation": "The five stars represent democracy, peace, progress, justice and equality; the crescent is a young nation on the rise."
+  },
+  {
+    "theme": "national",
+    "difficulty": 2,
+    "prompt": "In which language is the national anthem sung?",
+    "answer": "Malay",
+    "distractors": ["Mandarin", "English", "Tamil"],
+    "explanation": "Majulah Singapura is sung in Malay, the national language, regardless of the singer's mother tongue."
+  },
+  {
+    "theme": "national",
+    "difficulty": 2,
+    "prompt": "Which set lists all four of Singapore's official languages?",
+    "answer": "English, Malay, Mandarin and Tamil",
+    "distractors": ["English, Malay, Cantonese and Hindi", "English, Mandarin, Japanese and Malay", "Malay, Tamil, Hokkien and English"],
+    "explanation": "The four official languages are English, Malay, Mandarin and Tamil; Malay is also the national language."
+  },
+  {
+    "theme": "national",
+    "difficulty": 2,
+    "prompt": "Who composed 'Majulah Singapura'?",
+    "answer": "Zubir Said",
+    "distractors": ["Dick Lee", "Kit Chan", "Jeremy Monteiro"],
+    "explanation": "Zubir Said wrote Majulah Singapura in 1958; Dick Lee wrote 'Home', which Kit Chan made famous."
+  },
+  {
+    "theme": "national",
+    "difficulty": 3,
+    "prompt": "Who was the first President of Singapore?",
+    "answer": "Yusof Ishak",
+    "distractors": ["Benjamin Sheares", "Devan Nair", "Wee Kim Wee"],
+    "explanation": "Yusof Ishak served as the first President from 1965 to 1970 — his portrait is on Singapore's banknotes."
+  },
+  {
+    "theme": "national",
+    "difficulty": 3,
+    "prompt": "The national flower, Vanda Miss Joaquim, is notable for being…",
+    "answer": "A hybrid orchid first grown in Agnes Joaquim's garden",
+    "distractors": ["Imported from Thailand by Raffles", "The world's largest orchid", "A flower that blooms only at night"],
+    "explanation": "It's a hybrid orchid associated with Armenian-Singaporean Agnes Joaquim in the 1890s — the first hybrid chosen as any nation's flower."
+  }
+]
